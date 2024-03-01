@@ -23,7 +23,7 @@ export default function Introduction() {
           {siteConfig.description}
         </p>
         <Button className="my-7" asChild>
-          <Link href="/home">Use {siteConfig.name}</Link>
+          <Link href="/home">Use FarmEasy</Link>
         </Button>
       </div>
       <div className="relative hidden md:block md:w-full md:h-full">
