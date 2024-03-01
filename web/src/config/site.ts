@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "FarmEasy
+  name: "FarmEasy",
   url: "https://rudraksh.vercel.app",
   ogImage: "https://rudraksh.vercel.app/og.jpg",
   description:
