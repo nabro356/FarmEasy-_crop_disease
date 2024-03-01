@@ -2,7 +2,7 @@ interface HeaderProps {
   heading: string
 }
 
-export default function Header({ heading }: HeaderProps) {
+export default function Header() {
   return (
     <p>FarmEasy </p>  )
 }
