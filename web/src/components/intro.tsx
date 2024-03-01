@@ -17,7 +17,7 @@ export default function Introduction() {
           width={150}
           className="md:hidden"
         />
-        <h1 className="scroll-m-20 mb-4 text-4xl font-extrabold tracking-tight lg:text-5xl uppercase gradient-text">
+        <h1>
           FarmEasy     </h1>
         <p className="text-center text-sm md:text-base mt-6">
           {siteConfig.description}
