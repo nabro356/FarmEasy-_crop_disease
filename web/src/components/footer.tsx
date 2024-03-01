@@ -18,7 +18,7 @@ export default function Footer() {
               quality={100}
               className="-ml-3"
             />
-            <p className="text-2xl font-extrabold">{siteConfig.name}</p>
+            <p className="text-2xl font-extrabold">FarmEasy</p>
           </div>
           <p className="lg:w-5/6 mt-2 text-center lg:text-left max-w-sm lg:max-w-none mx-auto lg:mx-0">
             Blending Tech with Nature&apos;s Essence, Unveiling Plant Health
