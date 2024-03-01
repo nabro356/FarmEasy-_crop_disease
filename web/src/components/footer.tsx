@@ -43,7 +43,7 @@ export default function Footer() {
         <div className="flex flex-col items-center">
           <div className="flex gap-2 items-center">
             <p className="mt-4 font-bold text-lg text-center px-2">
-              Contribute to {siteConfig.name}
+              Contribute to FarmEasy
             </p>
           </div>
           <ul className="w-2/3 flex flex-col mt-2">
