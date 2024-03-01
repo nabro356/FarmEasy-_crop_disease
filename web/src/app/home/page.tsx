@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center px-5 py-24 md:p-24 overflow-x-hidden">
       <div className="text-center mb-auto">
-        <h1 style="background-color : green"> FarmEasy</h1>
+        <h1 style="color : green ;"> FarmEasy</h1>
           <span className="gradient-text">{siteConfig.name}</span> - Plant
           Disease Detection
         </h1>
